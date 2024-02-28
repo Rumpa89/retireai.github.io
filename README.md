@@ -12,5 +12,4 @@ AI Retirement Tool is an innovative application designed to help individuals pla
 - **Regular Updates:** Receive ongoing recommendations to adjust your plan as your circumstances change.
 
 ## Getting Started
-To get started with AI Retirement Tool, follow these steps:
-Visit our website - https://rumpa89.github.io/retireai.github.io/
+To get started with AI Retirement Tool, please visit our website - https://rumpa89.github.io/retireai.github.io/
