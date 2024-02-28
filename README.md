@@ -1,6 +1,6 @@
 # Welcome to RetireAI
+
 AI Enabled Retirement Planner Tool
-# AI Retirement Tool
 
 ## Overview
 AI Retirement Tool is an innovative application designed to help individuals plan their early retirement with the power of artificial intelligence. By analyzing various financial factors and personal goals, our tool provides personalized retirement strategies to ensure a comfortable and secure future.
